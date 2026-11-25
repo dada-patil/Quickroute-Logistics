@@ -1,0 +1,61 @@
+product_id,product_name,category,subcategory,unit_price
+P001,Webcam 001,Electronics,Accessories,3500
+P002,Printer 002,Electronics,Office Devices,12000
+P003,Printer 003,Electronics,Office Devices,12000
+P004,Laptop Bag 004,Accessories,Bags,1800
+P005,Calculator 005,Stationery,Office Supplies,600
+P006,Mouse 006,Electronics,Accessories,1200
+P007,Pen Set 007,Stationery,Writing,180
+P008,Headphones 008,Electronics,Audio,2500
+P009,Office Chair 009,Furniture,Chairs,8500
+P010,Calculator 010,Stationery,Office Supplies,600
+P011,Webcam 011,Electronics,Accessories,3500
+P012,Monitor 012,Electronics,Displays,15000
+P013,Calculator 013,Stationery,Office Supplies,600
+P014,Laptop Bag 014,Accessories,Bags,1800
+P015,Keyboard 015,Electronics,Accessories,1800
+P016,Tablet 016,Electronics,Computers,28000
+P017,Laptop Bag 017,Accessories,Bags,1800
+P018,Laptop 018,Electronics,Computers,55000
+P019,Monitor 019,Electronics,Displays,15000
+P020,Webcam 020,Electronics,Accessories,3500
+P021,Headphones 021,Electronics,Audio,2500
+P022,Pen Set 022,Stationery,Writing,180
+P023,Whiteboard 023,Stationery,Office Supplies,3200
+P024,Whiteboard 024,Stationery,Office Supplies,3200
+P025,Printer 025,Electronics,Office Devices,12000
+P026,Notebook 026,Stationery,Writing,250
+P027,Tablet 027,Electronics,Computers,28000
+P028,Headphones 028,Electronics,Audio,2500
+P029,Notebook 029,Stationery,Writing,250
+P030,Laptop 030,Electronics,Computers,55000
+P031,Notebook 031,Stationery,Writing,250
+P032,Office Chair 032,Furniture,Chairs,8500
+P033,Calculator 033,Stationery,Office Supplies,600
+P034,Desk 034,Furniture,Tables,12000
+P035,Pen Set 035,Stationery,Writing,180
+P036,Laptop Bag 036,Accessories,Bags,1800
+P037,Whiteboard 037,Stationery,Office Supplies,3200
+P038,Mouse 038,Electronics,Accessories,1200
+P039,Printer 039,Electronics,Office Devices,12000
+P040,Desk 040,Furniture,Tables,12000
+P041,Printer 041,Electronics,Office Devices,12000
+P042,Tablet 042,Electronics,Computers,28000
+P043,Water Bottle 043,Accessories,Lifestyle,700
+P044,Laptop Bag 044,Accessories,Bags,1800
+P045,Tablet 045,Electronics,Computers,28000
+P046,Bookshelf 046,Furniture,Storage,7000
+P047,Tablet 047,Electronics,Computers,28000
+P048,Tablet 048,Electronics,Computers,28000
+P049,Water Bottle 049,Accessories,Lifestyle,700
+P050,Whiteboard 050,Stationery,Office Supplies,3200
+P051,Backpack 051,Accessories,Bags,2200
+P052,Backpack 052,Accessories,Bags,2200
+P053,Headphones 053,Electronics,Audio,2500
+P054,Tablet 054,Electronics,Computers,28000
+P055,Backpack 055,Accessories,Bags,2200
+P056,Monitor 056,Electronics,Displays,15000
+P057,Headphones 057,Electronics,Audio,2500
+P058,Monitor 058,Electronics,Displays,15000
+P059,USB Drive 059,Electronics,Storage,900
+P060,Monitor 060,Electronics,Displays,15000
